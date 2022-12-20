@@ -59,10 +59,29 @@
 }
 
 .icon {
-    width: 30px;
+    width: 40px;
 }
 
-.icon-ancors:hover {
+.icon:hover {
     transform: scale(1.1);
     transition: all ease-in-out 0.2s;
 }
+
+.items-number-cart-container {
+    width: 22px;
+    height: 22px;
+    background-color: #004AC7;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: absolute;
+    top: 1.5em;
+    right: 3.5em;
+}
+
+.items-number-cart {
+    text-decoration-line: none;
+}
+
