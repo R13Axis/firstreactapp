@@ -59,7 +59,7 @@
 }
 
 .icon {
-    width: 40px;
+    width: 30px;
 }
 
 .icon:hover {
@@ -78,7 +78,7 @@
     color: white;
     position: absolute;
     top: 1.5em;
-    right: 3.5em;
+    right: 3.2em;
 }
 
 .items-number-cart {
